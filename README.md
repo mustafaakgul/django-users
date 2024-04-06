@@ -1,0 +1,1 @@
+### Django project demonstrating differenct kind of user app approach
